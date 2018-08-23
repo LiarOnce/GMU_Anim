@@ -677,22 +677,5 @@
     <option_xbone_texture_page>1024</option_xbone_texture_page>
     <option_xbone_title_id>1234ABCD</option_xbone_title_id>
   </Options>
-  <ConfigConstants>
-    <constants number="14">
-      <constant name="GMU_ANIM_LINEAR">0</constant>
-      <constant name="GMU_ANIM_SINE">1</constant>
-      <constant name="GMU_ANIM_QUAD">2</constant>
-      <constant name="GMU_ANIM_CUBIC">3</constant>
-      <constant name="GMU_ANIM_QUART">4</constant>
-      <constant name="GMU_ANIM_QUINT">5</constant>
-      <constant name="GMU_ANIM_EXPO">6</constant>
-      <constant name="GMU_ANIM_CIRC">7</constant>
-      <constant name="GMU_ANIM_BACK">8</constant>
-      <constant name="GMU_ANIM_ELASTIC">9</constant>
-      <constant name="GMU_ANIM_BOUNCE">10</constant>
-      <constant name="GMU_ANIM_IN">11</constant>
-      <constant name="GMU_ANIM_OUT">12</constant>
-      <constant name="GMU_ANIM_IN_OUT">13</constant>
-    </constants>
-  </ConfigConstants>
+  <ConfigConstants/>
 </Config>

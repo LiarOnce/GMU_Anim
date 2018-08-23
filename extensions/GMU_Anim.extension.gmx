@@ -3,7 +3,7 @@
   <name>GMU_Anim</name>
   <version>1.0.0</version>
   <packageID></packageID>
-  <ProductID>F63EE815C05B1EFD8CFA1337B78A2B85</ProductID>
+  <ProductID></ProductID>
   <date>17/08/18</date>
   <license>Free to use, also for commercial games.</license>
   <description></description>
@@ -34,6 +34,7 @@
     <Resource>Scripts\GMU_Anim\GMU_Anim_New</Resource>
     <Resource>Scripts\GMU_Anim\GMU_Anim_Skip</Resource>
     <Resource>Scripts\GMU_Anim\GMU_Anim_Stop</Resource>
+    <Resource>Scripts\GMU_Anim\GMU_Anim_Init</Resource>
     <Resource>Objects\_gmu_anim</Resource>
   </IncludedResources>
   <files/>

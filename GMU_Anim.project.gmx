@@ -13,6 +13,7 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <scripts name="GMU_Anim">
+      <script>scripts\GMU_Anim_Init.gml</script>
       <script>scripts\GMU_Anim_IsExists.gml</script>
       <script>scripts\GMU_Anim_New.gml</script>
       <script>scripts\GMU_Anim_Skip.gml</script>
